@@ -10,5 +10,4 @@ https://blog.naver.com/dh971125/222653998695
 
 
 # <결과화면>
-https://user-images.githubusercontent.com/74042160/155281562-6f15f0b9-155a-4a70-b6a8-0f9760d0fec7.mp4
-
+![bandicam 2022-02-23 16-49-55-719](https://user-images.githubusercontent.com/74042160/155281745-c014c35e-4b3c-46fa-9f2b-eadbbbf97c85.gif)
